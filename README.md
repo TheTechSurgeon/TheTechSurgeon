@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-At The Tech Surgeon, we specialize in helping individuals safeguard their devices and personal data from cybercrime while keeping their computers running smoothly.
+At DevUnderMountain, we specialize in helping individuals safeguard their devices and personal data from cybercrime while keeping their computers running smoothly.
 🛠️🔒
 Stay Safe. Stay Secure. Stay Connected.
 
